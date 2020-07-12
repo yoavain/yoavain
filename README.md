@@ -1,16 +1,19 @@
-### Hi there 👋
+## 👋  Hey there I'm Yoav - @yoavain
 
-<!--
-**yoavain/yoavain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a full stack developer from Israel, working at [SundaySky](https://sundaysky.com/) as a Senior Software Engineer.
 
-Here are some ideas to get you started:
+## My Expertise
+- Languages: TypeScript / JavaScript / Java / Bash / Batch
+- Platforms / Frameworks: NodeJS / React / GraphQL (Apollo) / AWS  
+- CI/CD: Jenkins
+- DB: DynamoDB / PostgreSQL / MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Opensource contributions:
+- Creator of [create-windowless-app](https://github.com/yoavain/create-windowless-app)
+- Contributor for [node-notifier](https://github.com/mikaelbr/node-notifier)
+
+## Get in touch
+- Twitter: [@yoavain](https://twitter.com/yoavain)
+- LinkedIn: [yoavvainrich](https://www.linkedin.com/in/yoavvainrich/)
+##
+![visitors](https://visitor-badge.glitch.me/badge?page_id=yoavain.yoavain)
