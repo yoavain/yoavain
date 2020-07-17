@@ -11,6 +11,7 @@ I am a full stack developer from Israel, working at [SundaySky](https://sundaysk
 ## Opensource contributions:
 - Creator of [create-windowless-app](https://github.com/yoavain/create-windowless-app)
 - Contributor for [node-notifier](https://github.com/mikaelbr/node-notifier)
+- Contributor for [webpack-build-notifier](https://github.com/RoccoC/webpack-build-notifier)
 
 ## Get in touch
 - Twitter: [@yoavain](https://twitter.com/yoavain)
