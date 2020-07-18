@@ -25,6 +25,7 @@ I am a full stack developer from Israel, working at [SundaySky](https://sundaysk
 
 <p>
     <span>Tools:</span>
+    <img src="https://konpa.github.io/devicon/devicon.git/icons/npm/npm-original-wordmark.svg" alt="npm" width="30" height="30"/>
     <img src="https://konpa.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="30" height="30"/>
     <img src="https://d33wubrfki0l68.cloudfront.net/204482ca413433c80cd14fe369e2181dd97a2a40/092e2/assets/img/logo.svg" alt="eslint" width="30" height="30"/>
     <img src="https://redux.js.org/img/redux.svg" alt="redux" width="30" height="30"/>
