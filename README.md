@@ -33,6 +33,11 @@ I am a full stack developer from Israel, working at [SundaySky](https://sundaysk
     <img src="https://flywaydb.org/assets/logo/flyway-logo-tm.png" alt="flyway" title="Flyway" width="30" height="30"/>
     <img src="https://user-images.githubusercontent.com/645641/79596653-38f81200-80e1-11ea-98cd-1c6a3bb5de51.png" alt="lerna" title="Lerna" width="30" height="30"/>
 </p>
+
+<p>
+    <span>IDE:</span>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1280px-IntelliJ_IDEA_Logo.svg.png" alt="IntelliJ" title="IntelliJ" width="30" height="30"/>
+</p>
   
 <p>
     <span>CI/CD:</span>
