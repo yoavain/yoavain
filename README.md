@@ -58,7 +58,7 @@ I am a full stack developer from Israel, working at [SundaySky](https://sundaysk
 - Contributor for [webpack-build-notifier](https://github.com/RoccoC/webpack-build-notifier)
 
 ## Get in touch
-<p align="center">
+<p>
     <a href="https://twitter.com/yoavain" target="blank">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="yoavain" height="30" width="30" />
     </a>
