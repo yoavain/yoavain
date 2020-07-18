@@ -9,6 +9,7 @@ I am a full stack developer from Israel, working at [SundaySky](https://sundaysk
 	<img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
 	<img src="https://konpa.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="30" height="30"/>
 	<img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" alt="bash" width="30" height="30"/>
+	<img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="30" height="30"/>
 </p>
 
 <p>
@@ -24,7 +25,12 @@ I am a full stack developer from Israel, working at [SundaySky](https://sundaysk
 
 <p>
     <span>Tools:</span>
-    <img src="https://konpa.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="nodejs" width="30" height="30"/>
+    <img src="https://konpa.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="30" height="30"/>
+    <img src="https://d33wubrfki0l68.cloudfront.net/204482ca413433c80cd14fe369e2181dd97a2a40/092e2/assets/img/logo.svg" alt="eslint" width="30" height="30"/>
+    <img src="https://redux.js.org/img/redux.svg" alt="redux" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/dotansimha/graphql-code-generator/master/website/static/img/GraphQL_Logo.svg" alt="graphql-code-generator" width="30" height="30"/>
+    <img src="https://flywaydb.org/assets/logo/flyway-logo-tm.png" alt="flyway" width="30" height="30"/>
+    <img src="https://user-images.githubusercontent.com/645641/79596653-38f81200-80e1-11ea-98cd-1c6a3bb5de51.png" alt="lerna" width="30" height="30"/>
 </p>
   
 <p>
