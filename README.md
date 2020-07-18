@@ -65,5 +65,6 @@ I am a full stack developer from Israel, working at [SundaySky](https://sundaysk
 </p>
 
 ##
-<!--![visitors](https://visitor-badge.glitch.me/badge?page_id=yoavain.yoavain)-->
-![visitors](https://komarev.com/ghpvc/?username=yoavain)
+<p  align="center">
+  <img src="https://komarev.com/ghpvc/?username=yoavain" alt="visitors"/>
+</p>
