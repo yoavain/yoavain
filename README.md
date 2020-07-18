@@ -19,6 +19,12 @@ I am a full stack developer from Israel, working at [SundaySky](https://sundaysk
 	<img src="https://avatars2.githubusercontent.com/u/17189275?s=30" alt="typescript" width="30" height="30"/>
 	<img src="https://konpa.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazonwebservices" width="30" height="30"/>
     <img src="https://konpa.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" width="30" height="30"/>
+    <img src="https://jestjs.io/img/jest.png" alt="jest" width="30" height="30"/>   
+</p>
+
+<p>
+    <span>Tools:</span>
+    <img src="https://konpa.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="nodejs" width="30" height="30"/>
 </p>
   
 <p>
