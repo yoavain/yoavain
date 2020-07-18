@@ -23,7 +23,7 @@ I am a full stack developer from Israel, working at [SundaySky](https://sundaysk
   
 <p>
     <span>CI/CD:</span>
-    <img src="http://mirror.serverion.com/jenkins/art/jenkins-logo/256x256/headshot.png" alt="Jenkins" width="30" height="30"/>
+    <img src="https://mirror.serverion.com/jenkins/art/jenkins-logo/256x256/headshot.png" alt="Jenkins" width="30" height="30"/>
 </p>
 
 <p >
