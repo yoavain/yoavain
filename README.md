@@ -46,12 +46,12 @@ I am a full stack developer from Israel, working at [SundaySky](https://sundaysk
 	<img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png" alt="dynamodb" width="30" height="30"/>
 </p>
 
-## Opensource contributions:
+## Opensource contributions
 - Creator of [create-windowless-app](https://github.com/yoavain/create-windowless-app)
 - Contributor for [node-notifier](https://github.com/mikaelbr/node-notifier)
 - Contributor for [webpack-build-notifier](https://github.com/RoccoC/webpack-build-notifier)
 
-##
+## Stats
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=yoavain&show_icons=true" alt="yoavain" />
 </p>
