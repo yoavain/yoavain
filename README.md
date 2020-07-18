@@ -59,9 +59,15 @@ I am a full stack developer from Israel, working at [SundaySky](https://sundaysk
 
 ## Get in touch
 <p align="center">
-<a href="https://twitter.com/yoavain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="yoavain" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/yoavvainrich" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="xxx" height="30" width="30" /></a>
-<a href="https://dev.to/yoavain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="xxx" height="30" width="30" /></a>
+    <a href="https://twitter.com/yoavain" target="blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="yoavain" height="30" width="30" />
+    </a>
+    <a href="https://linkedin.com/in/yoavvainrich" target="blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="xxx" height="30" width="30" />
+    </a>
+    <a href="https://dev.to/yoavain" target="blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="xxx" height="30" width="30" />
+    </a>
 </p>
 
 ##
