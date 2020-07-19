@@ -12,7 +12,7 @@ jobs:
       - name: repo-sync
         uses: wei/git-sync@v2
         with:
-          source_repo: "yoavain"
+          source_repo: "https://github.com/yoavain/yoavain.git"
           source_branch: "master"
-          destination_repo: "yoavain-sundaysky"
+          destination_repo: "https://github.com/yoavain-sundaysky/yoavain-sundaysky.git"
           destination_branch: "master"
