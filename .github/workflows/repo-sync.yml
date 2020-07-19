@@ -1,0 +1,17 @@
+# File: .github/workflows/repo-sync.yml
+
+on: push
+  branches:
+    - master
+
+jobs:
+  repo-sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: repo-sync
+        uses: wei/git-sync@v2
+        with:
+          source_repo: "yoavain"
+          source_branch: "master"
+          destination_repo: "yoavain-sundaysky"
+          destination_branch: "master"
