@@ -58,7 +58,7 @@ I am a full stack developer from Israel, working at [SundaySky](https://sundaysk
 
 ## Stats
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=yoavain&show_icons=true" alt="yoavain" />
+	<img src="https://github-readme-stats.vercel.app/api?username=yoavain&show_icons=true&theme=blue-green" alt="yoavain" />
 </p>
 
 ## Get in touch
