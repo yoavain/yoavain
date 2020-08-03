@@ -52,9 +52,12 @@ I am a full stack developer from Israel, working at [SundaySky](https://sundaysk
 </p>
 
 ## Opensource contributions
-- Creator of [create-windowless-app](https://github.com/yoavain/create-windowless-app)
-- Contributor for [node-notifier](https://github.com/mikaelbr/node-notifier)
-- Contributor for [webpack-build-notifier](https://github.com/RoccoC/webpack-build-notifier)
+- Creator of:  
+[create-windowless-app](https://github.com/yoavain/create-windowless-app) <a align="center" href="https://nodei.co/npm/create-windowless-app/"><img src="https://nodei.co/npm/create-windowless-app.png?compact=true"></a>  
+
+- Contributor for:  
+[node-notifier](https://github.com/mikaelbr/node-notifier)  
+[webpack-build-notifier](https://github.com/RoccoC/webpack-build-notifier)  
 
 ## Stats
 <p align="center">
