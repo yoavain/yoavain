@@ -32,6 +32,7 @@ I am a full stack developer from Israel, working at [SundaySky](https://sundaysk
     <img src="https://raw.githubusercontent.com/dotansimha/graphql-code-generator/master/website/static/img/GraphQL_Logo.svg" alt="graphql-code-generator" title="GraphQL Code Generator" width="30" height="30"/>
     <img src="https://flywaydb.org/assets/logo/flyway-logo-tm.png" alt="flyway" title="Flyway" width="30" height="30"/>
     <img src="https://user-images.githubusercontent.com/645641/79596653-38f81200-80e1-11ea-98cd-1c6a3bb5de51.png" alt="lerna" title="Lerna" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/idleberg/nsis-logo/master/preview.png" alt="nsis" title="nsis" width="30" height="30"/>
 </p>
 
 <p>
@@ -42,6 +43,11 @@ I am a full stack developer from Israel, working at [SundaySky](https://sundaysk
 <p>
     <span>CI/CD:</span>
     <img src="https://mirror.serverion.com/jenkins/art/jenkins-logo/256x256/headshot.png" alt="Jenkins" title="Jenkins" width="30" height="30"/>
+    <img src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg" alt="GitHub actions" title="GitHub actions" width="30" height="30"/>
+    <img src="https://mk0whitesourcer3uyuc.kinstacdn.com/wp-content/media/2019/11/renovate.png" alt="Renovate" title="Renovate" width="30" height="30"/>
+    <img src="https://avatars3.githubusercontent.com/ml/211?s=140&v=4" alt="Dependabot" title="Dependabot" width="30" height="30"/>
+    <img src="https://snyk.io/wp-content/uploads/logo-2.svg" alt="Snyk" title="Snyk" width="30" height="30"/>
+    <img src="https://lgtm.com/static/site/assets/images/favicons/android-icon-144x144.png" alt="LGTM" title="LGTM" width="30" height="30"/>
 </p>
 
 <p >
