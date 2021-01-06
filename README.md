@@ -25,14 +25,14 @@ I am a full stack developer from Israel, working at [SundaySky](https://sundaysk
 
 <p>
     <span>Tools:</span>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/npm/npm-original-wordmark.svg" alt="npm" title="NPM" width="30" height="30"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" title="Webpack" width="30" height="30"/>
-    <img src="https://d33wubrfki0l68.cloudfront.net/204482ca413433c80cd14fe369e2181dd97a2a40/092e2/assets/img/logo.svg" alt="eslint" title="ESLint" width="30" height="30"/>
-    <img src="https://redux.js.org/img/redux.svg" alt="redux" title="Redux" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/yoavain/yoavain/test/resources/npm-original-wordmark.svg" alt="npm" title="NPM" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/yoavain/yoavain/test/resources/webpack-original.svg" alt="webpack" title="Webpack" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/yoavain/yoavain/test/resources/eslint.svg" alt="eslint" title="ESLint" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/yoavain/yoavain/test/resources/redux.svg" alt="redux" title="Redux" width="30" height="30"/>
     <img src="https://raw.githubusercontent.com/dotansimha/graphql-code-generator/master/website/static/img/GraphQL_Logo.svg" alt="graphql-code-generator" title="GraphQL Code Generator" width="30" height="30"/>
-    <img src="https://flywaydb.org/assets/logo/flyway-logo-tm.png" alt="flyway" title="Flyway" width="30" height="30"/>
-    <img src="https://user-images.githubusercontent.com/645641/79596653-38f81200-80e1-11ea-98cd-1c6a3bb5de51.png" alt="lerna" title="Lerna" width="30" height="30"/>
-    <img src="https://raw.githubusercontent.com/idleberg/nsis-logo/master/preview.png" alt="nsis" title="nsis" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/yoavain/yoavain/test/resources/flyway-logo-tm.png" alt="flyway" title="Flyway" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/yoavain/yoavain/test/resources/lerna.png" alt="lerna" title="Lerna" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/yoavain/yoavain/test/resources/nsis.png" alt="nsis" title="nsis" width="30" height="30"/>
 </p>
 
 <p>
