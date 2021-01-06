@@ -29,7 +29,7 @@ I am a full stack developer from Israel, working at [SundaySky](https://sundaysk
     <img src="https://raw.githubusercontent.com/yoavain/yoavain/test/resources/webpack-original.svg" alt="webpack" title="Webpack" width="30" height="30"/>
     <img src="https://raw.githubusercontent.com/yoavain/yoavain/test/resources/eslint.svg" alt="eslint" title="ESLint" width="30" height="30"/>
     <img src="https://raw.githubusercontent.com/yoavain/yoavain/test/resources/redux.svg" alt="redux" title="Redux" width="30" height="30"/>
-    <img src="https://raw.githubusercontent.com/dotansimha/graphql-code-generator/master/website/static/img/GraphQL_Logo.svg" alt="graphql-code-generator" title="GraphQL Code Generator" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/yoavain/yoavain/test/resources/graphql-120.png" alt="graphql-code-generator" title="GraphQL Code Generator" width="30" height="30"/>
     <img src="https://raw.githubusercontent.com/yoavain/yoavain/test/resources/flyway-logo-tm.png" alt="flyway" title="Flyway" width="30" height="30"/>
     <img src="https://raw.githubusercontent.com/yoavain/yoavain/test/resources/lerna.png" alt="lerna" title="Lerna" width="30" height="30"/>
     <img src="https://raw.githubusercontent.com/yoavain/yoavain/test/resources/nsis.png" alt="nsis" title="nsis" width="30" height="30"/>
