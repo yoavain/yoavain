@@ -43,11 +43,11 @@ I am a full stack developer from Israel, working at [SundaySky](https://sundaysk
 <p>
     <span>CI/CD:</span>
     <img src="https://raw.githubusercontent.com/yoavain/yoavain/test/resources/jenkins-original.svg" alt="Jenkins" title="Jenkins" width="30" height="30"/>
-    <img src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg" alt="GitHub actions" title="GitHub actions" width="30" height="30"/>
-    <img src="https://mk0whitesourcer3uyuc.kinstacdn.com/wp-content/media/2019/11/renovate.png" alt="Renovate" title="Renovate" width="30" height="30"/>
-    <img src="https://avatars3.githubusercontent.com/ml/211?s=140&v=4" alt="Dependabot" title="Dependabot" width="30" height="30"/>
-    <img src="https://snyk.io/wp-content/uploads/logo-2.svg" alt="Snyk" title="Snyk" width="30" height="30"/>
-    <img src="https://lgtm.com/static/site/assets/images/favicons/android-icon-144x144.png" alt="LGTM" title="LGTM" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/yoavain/yoavain/test/resources/actions-icon-actions.svg" alt="GitHub actions" title="GitHub actions" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/yoavain/yoavain/test/resources/renovate.png" alt="Renovate" title="Renovate" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/yoavain/yoavain/test/resources/dependabot.png" alt="Dependabot" title="Dependabot" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/yoavain/yoavain/test/resources/snyk.svg" alt="Snyk" title="Snyk" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/yoavain/yoavain/test/resources/lgtm.png" alt="LGTM" title="LGTM" width="30" height="30"/>
 </p>
 
 <p >
