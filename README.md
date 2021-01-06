@@ -52,9 +52,9 @@ I am a full stack developer from Israel, working at [SundaySky](https://sundaysk
 
 <p >
     <span>DB:</span>
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" title="MySQL" width="30" height="30"/>
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" title="PostgreSQL" width="30" height="30"/>
-	<img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png" alt="dynamodb" title="DynamoDB" width="30" height="30"/>
+	<img src="https://raw.githubusercontent.com/yoavain/yoavain/test/resources/mysql-original-wordmark.svg" alt="mysql" title="MySQL" width="30" height="30"/>
+	<img src="https://raw.githubusercontent.com/yoavain/yoavain/test/resources/postgresql-original-wordmark.svg" alt="postgresql" title="PostgreSQL" width="30" height="30"/>
+	<img src="https://raw.githubusercontent.com/yoavain/yoavain/test/resources/DynamoDB.png" alt="dynamodb" title="DynamoDB" width="30" height="30"/>
 </p>
 
 ## Opensource contributions
