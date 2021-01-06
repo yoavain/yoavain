@@ -15,12 +15,12 @@ I am a full stack developer from Israel, working at [SundaySky](https://sundaysk
 <p>
     <span>Platforms / Frameworks:</span>
     <img src="https://raw.githubusercontent.com/yoavain/yoavain/test/resources/nodejs-original.svg" alt="nodejs" title="NodeJS" width="30" height="30"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" title="React" width="30" height="30"/>
-	<img src="https://avatars0.githubusercontent.com/u/12972006?s=30" alt="graphql" width="30" title="GraphQL" height="30"/>
-	<img src="https://avatars2.githubusercontent.com/u/17189275?s=30" alt="apollo-graphql" title="Apollo GraphQL" width="30" height="30"/>
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazonwebservices" title="AWS" width="30" height="30"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" title="Electron" width="30" height="30"/>
-    <img src="https://jestjs.io/img/jest.png" alt="jest" title="Jest" width="30" height="30"/>   
+    <img src="https://raw.githubusercontent.com/yoavain/yoavain/test/resources/react-original-wordmark.svg" alt="react" title="React" width="30" height="30"/>
+	<img src="https://raw.githubusercontent.com/yoavain/yoavain/test/resources/graphql-120.png" alt="graphql" width="30" title="GraphQL" height="30"/>
+	<img src="https://raw.githubusercontent.com/yoavain/yoavain/test/resources/apollo-120.png" alt="apollo-graphql" title="Apollo GraphQL" width="30" height="30"/>
+	<img src="https://raw.githubusercontent.com/yoavain/yoavain/test/resources/amazonwebservices-original-wordmark.svg" alt="amazonwebservices" title="AWS" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/yoavain/yoavain/test/resources/electron-original.svg" alt="electron" title="Electron" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/yoavain/yoavain/test/resources/jest.png" alt="jest" title="Jest" width="30" height="30"/>   
 </p>
 
 <p>
