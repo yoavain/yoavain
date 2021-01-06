@@ -8,8 +8,8 @@ I am a full stack developer from Israel, working at [SundaySky](https://sundaysk
 	<img src="https://raw.githubusercontent.com/yoavain/yoavain/test/resources/typescript-plain.svg" alt="typescript" title="TypeScript" width="30" height="30"/>
 	<img src="https://raw.githubusercontent.com/yoavain/yoavain/test/resources/javascript-original.svg" alt="javascript" title="JavaScript" width="30" height="30"/>
 	<img src="https://raw.githubusercontent.com/yoavain/yoavain/test/resources/java-original-wordmark.svg" alt="java" title="Java" width="30" height="30"/>
-	<img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" alt="bash" title="Bash" width="30" height="30"/>
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" title="Python" width="30" height="30"/>
+	<img src="https://raw.githubusercontent.com/yoavain/yoavain/test/resources/bash.svg" alt="bash" title="Bash" width="30" height="30"/>
+	<img src="https://raw.githubusercontent.com/yoavain/yoavain/test/resources/python-original.svg" alt="python" title="Python" width="30" height="30"/>
 </p>
 
 <p>
