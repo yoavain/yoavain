@@ -5,56 +5,56 @@ I am a full stack developer from Israel, working at [SundaySky](https://sundaysk
 ## My Expertise
 <p>
     <span>Languages:</span>
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" title="TypeScript" width="30" height="30"/>
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" title="JavaScript" width="30" height="30"/>
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" title="Java" width="30" height="30"/>
-	<img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" alt="bash" title="Bash" width="30" height="30"/>
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" title="Python" width="30" height="30"/>
+	<img src="https://raw.githubusercontent.com/yoavain/yoavain/master/resources/typescript-plain.svg" alt="typescript" title="TypeScript" width="30" height="30"/>
+	<img src="https://raw.githubusercontent.com/yoavain/yoavain/master/resources/javascript-original.svg" alt="javascript" title="JavaScript" width="30" height="30"/>
+	<img src="https://raw.githubusercontent.com/yoavain/yoavain/master/resources/java-original-wordmark.svg" alt="java" title="Java" width="30" height="30"/>
+	<img src="https://raw.githubusercontent.com/yoavain/yoavain/master/resources/bash.svg" alt="bash" title="Bash" width="30" height="30"/>
+	<img src="https://raw.githubusercontent.com/yoavain/yoavain/master/resources/python-original.svg" alt="python" title="Python" width="30" height="30"/>
 </p>
 
 <p>
     <span>Platforms / Frameworks:</span>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-plain.svg" alt="nodejs" title="NodeJS" width="30" height="30"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" title="React" width="30" height="30"/>
-	<img src="https://avatars0.githubusercontent.com/u/12972006?s=30" alt="graphql" width="30" title="GraphQL" height="30"/>
-	<img src="https://avatars2.githubusercontent.com/u/17189275?s=30" alt="apollo-graphql" title="Apollo GraphQL" width="30" height="30"/>
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazonwebservices" title="AWS" width="30" height="30"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" title="Electron" width="30" height="30"/>
-    <img src="https://jestjs.io/img/jest.png" alt="jest" title="Jest" width="30" height="30"/>   
+    <img src="https://raw.githubusercontent.com/yoavain/yoavain/master/resources/nodejs-original.svg" alt="nodejs" title="NodeJS" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/yoavain/yoavain/master/resources/react-original-wordmark.svg" alt="react" title="React" width="30" height="30"/>
+	<img src="https://raw.githubusercontent.com/yoavain/yoavain/master/resources/graphql-120.png" alt="graphql" width="30" title="GraphQL" height="30"/>
+	<img src="https://raw.githubusercontent.com/yoavain/yoavain/master/resources/apollo-120.png" alt="apollo-graphql" title="Apollo GraphQL" width="30" height="30"/>
+	<img src="https://raw.githubusercontent.com/yoavain/yoavain/master/resources/amazonwebservices-original-wordmark.svg" alt="amazonwebservices" title="AWS" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/yoavain/yoavain/master/resources/electron-original.svg" alt="electron" title="Electron" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/yoavain/yoavain/master/resources/jest.png" alt="jest" title="Jest" width="30" height="30"/>   
 </p>
 
 <p>
     <span>Tools:</span>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/npm/npm-original-wordmark.svg" alt="npm" title="NPM" width="30" height="30"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" title="Webpack" width="30" height="30"/>
-    <img src="https://d33wubrfki0l68.cloudfront.net/204482ca413433c80cd14fe369e2181dd97a2a40/092e2/assets/img/logo.svg" alt="eslint" title="ESLint" width="30" height="30"/>
-    <img src="https://redux.js.org/img/redux.svg" alt="redux" title="Redux" width="30" height="30"/>
-    <img src="https://raw.githubusercontent.com/dotansimha/graphql-code-generator/master/website/static/img/GraphQL_Logo.svg" alt="graphql-code-generator" title="GraphQL Code Generator" width="30" height="30"/>
-    <img src="https://flywaydb.org/assets/logo/flyway-logo-tm.png" alt="flyway" title="Flyway" width="30" height="30"/>
-    <img src="https://user-images.githubusercontent.com/645641/79596653-38f81200-80e1-11ea-98cd-1c6a3bb5de51.png" alt="lerna" title="Lerna" width="30" height="30"/>
-    <img src="https://raw.githubusercontent.com/idleberg/nsis-logo/master/preview.png" alt="nsis" title="nsis" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/yoavain/yoavain/master/resources/npm-original-wordmark.svg" alt="npm" title="NPM" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/yoavain/yoavain/master/resources/webpack-original.svg" alt="webpack" title="Webpack" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/yoavain/yoavain/master/resources/eslint.svg" alt="eslint" title="ESLint" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/yoavain/yoavain/master/resources/redux.svg" alt="redux" title="Redux" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/yoavain/yoavain/master/resources/graphql-120.png" alt="graphql-code-generator" title="GraphQL Code Generator" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/yoavain/yoavain/master/resources/flyway-logo-tm.png" alt="flyway" title="Flyway" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/yoavain/yoavain/master/resources/lerna.png" alt="lerna" title="Lerna" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/yoavain/yoavain/master/resources/nsis.png" alt="nsis" title="nsis" width="30" height="30"/>
 </p>
 
 <p>
     <span>IDE:</span>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1280px-IntelliJ_IDEA_Logo.svg.png" alt="IntelliJ" title="IntelliJ" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/yoavain/yoavain/master/resources/IntelliJ.png" alt="IntelliJ" title="IntelliJ" width="30" height="30"/>
 </p>
   
 <p>
     <span>CI/CD:</span>
-    <img src="https://mirror.serverion.com/jenkins/art/jenkins-logo/256x256/headshot.png" alt="Jenkins" title="Jenkins" width="30" height="30"/>
-    <img src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg" alt="GitHub actions" title="GitHub actions" width="30" height="30"/>
-    <img src="https://mk0whitesourcer3uyuc.kinstacdn.com/wp-content/media/2019/11/renovate.png" alt="Renovate" title="Renovate" width="30" height="30"/>
-    <img src="https://avatars3.githubusercontent.com/ml/211?s=140&v=4" alt="Dependabot" title="Dependabot" width="30" height="30"/>
-    <img src="https://snyk.io/wp-content/uploads/logo-2.svg" alt="Snyk" title="Snyk" width="30" height="30"/>
-    <img src="https://lgtm.com/static/site/assets/images/favicons/android-icon-144x144.png" alt="LGTM" title="LGTM" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/yoavain/yoavain/master/resources/jenkins-original.svg" alt="Jenkins" title="Jenkins" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/yoavain/yoavain/master/resources/actions-icon-actions.svg" alt="GitHub actions" title="GitHub actions" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/yoavain/yoavain/master/resources/renovate.png" alt="Renovate" title="Renovate" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/yoavain/yoavain/master/resources/dependabot.png" alt="Dependabot" title="Dependabot" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/yoavain/yoavain/master/resources/snyk.svg" alt="Snyk" title="Snyk" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/yoavain/yoavain/master/resources/lgtm.png" alt="LGTM" title="LGTM" width="30" height="30"/>
 </p>
 
 <p >
     <span>DB:</span>
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" title="MySQL" width="30" height="30"/>
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" title="PostgreSQL" width="30" height="30"/>
-	<img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png" alt="dynamodb" title="DynamoDB" width="30" height="30"/>
+	<img src="https://raw.githubusercontent.com/yoavain/yoavain/master/resources/mysql-original-wordmark.svg" alt="mysql" title="MySQL" width="30" height="30"/>
+	<img src="https://raw.githubusercontent.com/yoavain/yoavain/master/resources/postgresql-original-wordmark.svg" alt="postgresql" title="PostgreSQL" width="30" height="30"/>
+	<img src="https://raw.githubusercontent.com/yoavain/yoavain/master/resources/DynamoDB.png" alt="dynamodb" title="DynamoDB" width="30" height="30"/>
 </p>
 
 ## Opensource contributions
