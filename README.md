@@ -14,7 +14,7 @@ I am a full stack developer from Israel, working at [SundaySky](https://sundaysk
 
 <p>
     <span>Platforms / Frameworks:</span>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-plain.svg" alt="nodejs" title="NodeJS" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/yoavain/yoavain/test/resources/nodejs-original.svg" alt="nodejs" title="NodeJS" width="30" height="30"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" title="React" width="30" height="30"/>
 	<img src="https://avatars0.githubusercontent.com/u/12972006?s=30" alt="graphql" width="30" title="GraphQL" height="30"/>
 	<img src="https://avatars2.githubusercontent.com/u/17189275?s=30" alt="apollo-graphql" title="Apollo GraphQL" width="30" height="30"/>
