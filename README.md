@@ -37,7 +37,7 @@ I am a full stack developer from Israel, working at [SundaySky](https://sundaysk
 
 <p>
     <span>IDE:</span>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1280px-IntelliJ_IDEA_Logo.svg.png" alt="IntelliJ" title="IntelliJ" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/yoavain/yoavain/test/resources/IntelliJ.png" alt="IntelliJ" title="IntelliJ" width="30" height="30"/>
 </p>
   
 <p>
