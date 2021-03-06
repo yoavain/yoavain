@@ -32,6 +32,7 @@ I am a full stack developer from Israel, working at [SundaySky](https://sundaysk
     <img src="https://raw.githubusercontent.com/yoavain/yoavain/master/resources/graphql-120.png" alt="graphql-code-generator" title="GraphQL Code Generator" width="30" height="30"/>
     <img src="https://raw.githubusercontent.com/yoavain/yoavain/master/resources/flyway-logo-tm.png" alt="flyway" title="Flyway" width="30" height="30"/>
     <img src="https://raw.githubusercontent.com/yoavain/yoavain/master/resources/lerna.png" alt="lerna" title="Lerna" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/yoavain/yoavain/master/resources/verdaccio.png" alt="verdaccio" title="Verdaccio" width="30" height="30"/>
     <img src="https://raw.githubusercontent.com/yoavain/yoavain/master/resources/nsis.png" alt="nsis" title="nsis" width="30" height="30"/>
 </p>
 
