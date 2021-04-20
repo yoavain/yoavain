@@ -65,6 +65,7 @@ I am a full stack developer from Israel, working at [SundaySky](https://sundaysk
 - Contributor for:  
 [node-notifier](https://github.com/mikaelbr/node-notifier)  
 [webpack-build-notifier](https://github.com/RoccoC/webpack-build-notifier)  
+[npq](https://github.com/lirantal/npq)  
 [IntelliJ IDE Extra Icons plugin](https://github.com/jonathanlermitage/intellij-extra-icons-plugin)  
 
 ## Stats
