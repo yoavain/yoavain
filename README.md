@@ -60,7 +60,11 @@ I am a full stack developer from Israel, working at [SundaySky](https://sundaysk
 
 ## Opensource contributions
 - Creator of:  
-[create-windowless-app](https://github.com/yoavain/create-windowless-app) <a align="center" href="https://nodei.co/npm/create-windowless-app/"><img src="https://nodei.co/npm/create-windowless-app.png?compact=true"></a>  
+[create-windowless-app](https://github.com/yoavain/create-windowless-app)  
+<a align="center" href="https://nodei.co/npm/create-windowless-app/"><img src="https://nodei.co/npm/create-windowless-app.png?compact=true"></a>  
+[fix-lockfile-integrity](https://github.com/yoavain/fix-lockfile-integrity)  
+<a align="center" href="https://nodei.co/npm/fix-lockfile-integrity/"><img src="https://nodei.co/npm/fix-lockfile-integrity.png?compact=true"></a>  
+
 
 - Contributor for:  
 [node-notifier](https://github.com/mikaelbr/node-notifier)  
