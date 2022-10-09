@@ -71,6 +71,7 @@ I am a full stack developer from Israel, working at [SundaySky](https://sundaysk
 [webpack-build-notifier](https://github.com/RoccoC/webpack-build-notifier)  
 [npq](https://github.com/lirantal/npq)  
 [lockfile-lint](https://github.com/lirantal/lockfile-lint)  
+[lockfix](https://github.com/kopach/lockfix)  
 [IntelliJ IDE Extra Icons plugin](https://github.com/jonathanlermitage/intellij-extra-icons-plugin)  
 
 ## Stats
