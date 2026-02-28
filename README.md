@@ -102,13 +102,13 @@ I am a full stack developer from Israel, working at [SundaySky](https://sundaysk
 
 <p>
     <a href="https://twitter.com/yoavain" target="blank">
-        <img src="https://cdn.simpleicons.org/twitter" alt="Twitter" height="30" width="30" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/x.svg" alt="Twitter / X" height="30" width="30" />
     </a>
     <a href="https://linkedin.com/in/yoavvainrich" target="blank">
-        <img src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" height="30" width="30" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" />
     </a>
     <a href="https://dev.to/yoavain" target="blank">
-        <img src="https://cdn.simpleicons.org/devdotto" alt="dev.to" height="30" width="30" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/devdotto.svg" alt="dev.to" height="30" width="30" />
     </a>
 </p>
 
