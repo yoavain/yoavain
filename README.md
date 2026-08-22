@@ -45,7 +45,7 @@ Fixes and features merged into tools other developers depend on.
 
 <br>
 
-Redux · Lerna · Verdaccio · NSIS · ESLint · GraphQL Code Generator · Flyway · Renovate · Dependabot · Snyk · IntelliJ · Claude Code
+Claude Code · IntelliJ · Docker · Serverless · Lerna · Nx · Express · Fastify · ESLint · GraphQL Code Generator · Flyway · NSIS · Renovate · Dependabot · Snyk · Verdaccio
 
 </details>
 
