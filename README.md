@@ -3,7 +3,7 @@
   <img alt="Yoav Vainrich: full stack developer, TypeScript & Node, programming since 2006" src="resources/banner-light.svg">
 </picture>
 
-Full stack developer from Israel. Senior Software Engineer at [SundaySky](https://sundaysky.com/), working on GraphQL services and React apps on AWS.
+Full stack developer from Israel. Senior Software Engineer at [SundaySky](https://sundaysky.com/). I work on a PostgreSQL, Express, React and Node (PERN) web app with both REST and GraphQL APIs. I also build serverless services on AWS.
 
 Off the clock I write small Node tools that fix annoying things, mostly around npm, packaging, and the parts of a dev setup nobody wants to think about. If one of them saved you an afternoon, that's the whole idea.
 
