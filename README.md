@@ -33,19 +33,19 @@ Fixes and features merged into tools other developers depend on.
 
 ### What I reach for
 
-| | |
-| --- | --- |
-| Every day | TypeScript, Node.js, React, GraphQL / Apollo |
-| Also fluent | Java, Bash, Batch |
-| Data | PostgreSQL, MySQL, DynamoDB |
-| Build & ship | AWS, GitHub Actions, Jenkins, Webpack, Jest, Electron |
+| |                                                                |
+| --- |----------------------------------------------------------------|
+| Every day | TypeScript, Node.js, React, GraphQL / Apollo                   |
+| Also fluent | Java, Bash, Batch                                              |
+| Data | PostgreSQL, MySQL, DynamoDB                                    |
+| Build & ship | AWS, GitHub Actions, Jenkins, Git, Webpack, Vite, Jest |
 
 <details>
 <summary>The full inventory, if you're curious</summary>
 
 <br>
 
-Claude Code · IntelliJ · Docker · Serverless · Lerna · Nx · Express · Fastify · ESLint · GraphQL Code Generator · Flyway · NSIS · Renovate · Dependabot · Snyk · Verdaccio
+Claude Code · IntelliJ · Docker · Serverless · Lerna · Nx · Express · Fastify · ESLint · GraphQL Code Generator · Flyway · NSIS · Electron · Renovate · Dependabot · Snyk · Verdaccio
 
 </details>
 
