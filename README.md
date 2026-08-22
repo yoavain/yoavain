@@ -1,117 +1,56 @@
-## 👋 Hey there, I'm Yoav — @yoavain
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="resources/banner-dark.svg">
+  <img alt="Yoav Vainrich: full stack developer, TypeScript & Node, programming since 2006" src="resources/banner-light.svg">
+</picture>
 
-I am a full stack developer from Israel, working at [SundaySky](https://sundaysky.com/) as a Senior Software Engineer.
+Full stack developer from Israel. Senior Software Engineer at [SundaySky](https://sundaysky.com/), working on GraphQL services and React apps on AWS.
 
----
+Off the clock I write small Node tools that fix annoying things, mostly around npm, packaging, and the parts of a dev setup nobody wants to think about. If one of them saved you an afternoon, that's the whole idea.
 
-## My Expertise
+### Things I've made
 
-### Languages
+| | |
+| --- | --- |
+| **[create-windowless-app](https://github.com/yoavain/create-windowless-app)** | Scaffold a Node app that runs with no console window. [`npm`](https://www.npmjs.com/package/create-windowless-app) |
+| **[fix-lockfile-integrity](https://github.com/yoavain/fix-lockfile-integrity)** | Repairs broken integrity hashes in `package-lock.json`. [`npm`](https://www.npmjs.com/package/fix-lockfile-integrity) |
+| **[screwzira-subtitle-downloader](https://github.com/yoavain/screwzira-subtitle-downloader)** | Fetches Hebrew subtitles for whatever you're watching, automatically. |
+| **[easylists-for-pihole](https://github.com/yoavain/easylists-for-pihole)** | EasyList blocklists, converted into something Pi-hole can eat. |
 
-<p>
-    <img src="https://raw.githubusercontent.com/yoavain/yoavain/main/resources/typescript-plain.svg" alt="TypeScript" title="TypeScript" width="30" height="30"/>
-    <img src="https://raw.githubusercontent.com/yoavain/yoavain/main/resources/javascript-original.svg" alt="JavaScript" title="JavaScript" width="30" height="30"/>
-    <img src="https://raw.githubusercontent.com/yoavain/yoavain/main/resources/java-original-wordmark.svg" alt="Java" title="Java" width="30" height="30"/>
-    <img src="https://raw.githubusercontent.com/yoavain/yoavain/main/resources/bash.svg" alt="Bash" title="Bash" width="30" height="30"/>
-    <img src="https://raw.githubusercontent.com/yoavain/yoavain/main/resources/python-original.svg" alt="Python" title="Python" width="30" height="30"/>
-</p>
+### Contributed to
 
-### Platforms & Frameworks
+Fixes and features merged into tools other developers depend on.
 
-<p>
-    <img src="https://raw.githubusercontent.com/yoavain/yoavain/main/resources/nodejs-original.svg" alt="NodeJS" title="NodeJS" width="30" height="30"/>
-    <img src="https://raw.githubusercontent.com/yoavain/yoavain/main/resources/react-original-wordmark.svg" alt="React" title="React" width="30" height="30"/>
-    <img src="https://raw.githubusercontent.com/yoavain/yoavain/main/resources/graphql-120.png" alt="GraphQL" title="GraphQL" width="30" height="30"/>
-    <img src="https://raw.githubusercontent.com/yoavain/yoavain/main/resources/apollo-120.png" alt="Apollo GraphQL" title="Apollo GraphQL" width="30" height="30"/>
-    <img src="https://raw.githubusercontent.com/yoavain/yoavain/main/resources/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS" width="30" height="30"/>
-    <img src="https://raw.githubusercontent.com/yoavain/yoavain/main/resources/electron-original.svg" alt="Electron" title="Electron" width="30" height="30"/>
-    <img src="https://raw.githubusercontent.com/yoavain/yoavain/main/resources/jest.png" alt="Jest" title="Jest" width="30" height="30"/>
-</p>
+| | |
+| --- | --- |
+| **[node-notifier](https://github.com/mikaelbr/node-notifier)** | Desktop notifications for Node, 5M downloads/week. |
+| **[lockfile-lint](https://github.com/lirantal/lockfile-lint)** | Lockfile security linting. |
+| **[IntelliJ Extra Icons](https://github.com/jonathanlermitage/intellij-extra-icons-plugin)** | File-icon overrides for IntelliJ, 1.4M installs. |
+| **[webpack-build-notifier](https://github.com/RoccoC/webpack-build-notifier)** | Build notifications for Webpack. |
+| **[branch-name-lint](https://github.com/barzik/branch-name-lint)** | Branch naming conventions. |
+| **[npq](https://github.com/lirantal/npq)** | Pre-install auditing for npm packages. |
+| **[lockfix](https://github.com/kopach/lockfix)** | npm lockfile repair. |
+| **[ls-mcp](https://github.com/lirantal/ls-mcp)** | MCP server config discovery. |
 
-### Tools
+### What I reach for
 
-<p>
-    <img src="https://raw.githubusercontent.com/yoavain/yoavain/main/resources/claude-code.svg" alt="Claude Code" title="Claude Code" width="30" height="30"/>
-    <img src="https://raw.githubusercontent.com/yoavain/yoavain/main/resources/npm-original-wordmark.svg" alt="npm" title="NPM" width="30" height="30"/>
-    <img src="https://raw.githubusercontent.com/yoavain/yoavain/main/resources/webpack-original.svg" alt="Webpack" title="Webpack" width="30" height="30"/>
-    <img src="https://raw.githubusercontent.com/yoavain/yoavain/main/resources/eslint.svg" alt="ESLint" title="ESLint" width="30" height="30"/>
-    <img src="https://raw.githubusercontent.com/yoavain/yoavain/main/resources/redux.svg" alt="Redux" title="Redux" width="30" height="30"/>
-    <img src="https://raw.githubusercontent.com/yoavain/yoavain/main/resources/graphql-120.png" alt="GraphQL Code Generator" title="GraphQL Code Generator" width="30" height="30"/>
-    <img src="https://raw.githubusercontent.com/yoavain/yoavain/main/resources/flyway-logo-tm.png" alt="Flyway" title="Flyway" width="30" height="30"/>
-    <img src="https://raw.githubusercontent.com/yoavain/yoavain/main/resources/lerna.png" alt="Lerna" title="Lerna" width="30" height="30"/>
-    <img src="https://raw.githubusercontent.com/yoavain/yoavain/main/resources/verdaccio.png" alt="Verdaccio" title="Verdaccio" width="30" height="30"/>
-    <img src="https://raw.githubusercontent.com/yoavain/yoavain/main/resources/nsis.png" alt="NSIS" title="NSIS" width="30" height="30"/>
-</p>
+| | |
+| --- | --- |
+| Every day | TypeScript, Node.js, React, GraphQL / Apollo |
+| Also fluent | Java, Bash, Batch |
+| Data | PostgreSQL, MySQL, DynamoDB |
+| Build & ship | AWS, GitHub Actions, Jenkins, Webpack, Jest, Electron |
 
-### IDE
+<details>
+<summary>The full inventory, if you're curious</summary>
 
-<p>
-    <img src="https://raw.githubusercontent.com/yoavain/yoavain/main/resources/IntelliJ.png" alt="IntelliJ" title="IntelliJ" width="30" height="30"/>
-</p>
+<br>
 
-### CI/CD & DevOps
+Redux · Lerna · Verdaccio · NSIS · ESLint · GraphQL Code Generator · Flyway · Renovate · Dependabot · Snyk · IntelliJ · Claude Code
 
-<p>
-    <img src="https://raw.githubusercontent.com/yoavain/yoavain/main/resources/jenkins-original.svg" alt="Jenkins" title="Jenkins" width="30" height="30"/>
-    <img src="https://raw.githubusercontent.com/yoavain/yoavain/main/resources/actions-icon-actions.svg" alt="GitHub Actions" title="GitHub Actions" width="30" height="30"/>
-    <img src="https://raw.githubusercontent.com/yoavain/yoavain/main/resources/renovate.png" alt="Renovate" title="Renovate" width="30" height="30"/>
-    <img src="https://raw.githubusercontent.com/yoavain/yoavain/main/resources/dependabot.png" alt="Dependabot" title="Dependabot" width="30" height="30"/>
-    <img src="https://raw.githubusercontent.com/yoavain/yoavain/main/resources/snyk.svg" alt="Snyk" title="Snyk" width="30" height="30"/>
-    <img src="https://raw.githubusercontent.com/yoavain/yoavain/main/resources/lgtm.png" alt="LGTM" title="LGTM" width="30" height="30"/>
-</p>
+</details>
 
-### Databases
+### Say hi
 
-<p>
-    <img src="https://raw.githubusercontent.com/yoavain/yoavain/main/resources/mysql-original-wordmark.svg" alt="MySQL" title="MySQL" width="30" height="30"/>
-    <img src="https://raw.githubusercontent.com/yoavain/yoavain/main/resources/postgresql-original-wordmark.svg" alt="PostgreSQL" title="PostgreSQL" width="30" height="30"/>
-    <img src="https://raw.githubusercontent.com/yoavain/yoavain/main/resources/DynamoDB.png" alt="DynamoDB" title="DynamoDB" width="30" height="30"/>
-</p>
+Issues and PRs on any of the above are genuinely welcome; small PRs with a screenshot are my favourite kind.
 
----
-
-## Open Source Contributions
-
-### Created
-
-- [create-windowless-app](https://github.com/yoavain/create-windowless-app)
-  <p align="center"><a href="https://nodei.co/npm/create-windowless-app/"><img src="https://nodei.co/npm/create-windowless-app.png?compact=true"></a></p>
-- [fix-lockfile-integrity](https://github.com/yoavain/fix-lockfile-integrity)
-  <p align="center"><a href="https://nodei.co/npm/fix-lockfile-integrity/"><img src="https://nodei.co/npm/fix-lockfile-integrity.png?compact=true"></a></p>
-
-### Contributed To
-
-- [node-notifier](https://github.com/mikaelbr/node-notifier)
-- [webpack-build-notifier](https://github.com/RoccoC/webpack-build-notifier)
-- [npq](https://github.com/lirantal/npq)
-- [lockfile-lint](https://github.com/lirantal/lockfile-lint)
-- [lockfix](https://github.com/kopach/lockfix)
-- [IntelliJ IDE Extra Icons plugin](https://github.com/jonathanlermitage/intellij-extra-icons-plugin)
-
----
-
-## Stats
-
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yoavain&theme=blue-green" alt="yoavain" />
-</p>
-
----
-
-## Get in Touch
-
-<p>
-    <a href="https://twitter.com/yoavain" target="blank">
-        <img src="https://api.iconify.design/simple-icons:x.svg?color=white" alt="Twitter / X" height="30" width="30" />
-    </a>
-    <a href="https://linkedin.com/in/yoavvainrich" target="blank">
-        <img src="https://api.iconify.design/simple-icons:linkedin.svg?color=white" alt="LinkedIn" height="30" width="30" />
-    </a>
-    <a href="https://dev.to/yoavain" target="blank">
-        <img src="https://api.iconify.design/simple-icons:devdotto.svg?color=white" alt="dev.to" height="30" width="30" />
-    </a>
-</p>
-
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=yoavain" alt="visitors"/>
-</p>
+[X](https://twitter.com/yoavain) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/yoavvainrich) &nbsp;·&nbsp; [dev.to](https://dev.to/yoavain)

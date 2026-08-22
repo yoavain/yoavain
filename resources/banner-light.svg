@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-label="Yoav Vainrich: full stack developer, TypeScript and Node, programming since 2006">
+  <defs>
+    <pattern id="dotsL" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.5" fill="#14161A" fill-opacity="0.08"></circle>
+    </pattern>
+    <linearGradient id="fadeL" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FAF7F2" stop-opacity="1"></stop>
+      <stop offset="0.5" stop-color="#FAF7F2" stop-opacity="0.8"></stop>
+      <stop offset="1" stop-color="#FAF7F2" stop-opacity="0"></stop>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="340" fill="#FAF7F2"></rect>
+  <rect width="1280" height="340" fill="url(#dotsL)"></rect>
+  <rect width="1280" height="340" fill="url(#fadeL)"></rect>
+
+  <g transform="translate(1010 170) rotate(-28)" fill="none" stroke-width="2">
+    <rect x="-118" y="-118" width="236" height="236" stroke="#14161A" stroke-opacity="0.09" transform="rotate(45)"></rect>
+    <circle r="116" stroke="#8000FF" stroke-opacity="0.24"></circle>
+    <circle r="84" stroke="#8000FF" stroke-opacity="0.38"></circle>
+    <path d="M -116 0 A 116 116 0 0 1 0 -116" stroke="#8000FF" stroke-width="3"></path>
+    <path d="M -84 0 A 84 84 0 0 1 0 -84" stroke="#8000FF" stroke-width="3"></path>
+    <path d="M -52 0 A 52 52 0 0 1 0 -52" stroke="#8000FF" stroke-width="3"></path>
+    <path d="M -20 0 A 20 20 0 0 1 0 -20" stroke="#8000FF" stroke-width="3"></path>
+    <circle cx="0" cy="-84" r="6" fill="#8000FF" stroke="none"></circle>
+  </g>
+
+  <rect x="88" y="94" width="44" height="3" fill="#8000FF"></rect>
+
+  <text x="88" y="186" font-family="Georgia, 'Iowan Old Style', 'Times New Roman', serif" font-size="80" fill="#14161A" letter-spacing="-1.5">Yoav Vainrich</text>
+
+  <text x="90" y="230" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5C6470" letter-spacing="1.2">full stack developer · typescript &amp; node</text>
+
+  <text x="90" y="282" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#5C6470" letter-spacing="2.4">SENIOR SOFTWARE ENGINEER AT SUNDAYSKY · PROGRAMMING SINCE 2006</text>
+</svg>
