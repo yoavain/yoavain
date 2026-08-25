@@ -16,6 +16,14 @@ Off the clock I write small Node tools that fix annoying things, mostly around n
 | **[screwzira-subtitle-downloader](https://github.com/yoavain/screwzira-subtitle-downloader)** | Fetches Hebrew subtitles for whatever you're watching, automatically. |
 | **[easylists-for-pihole](https://github.com/yoavain/easylists-for-pihole)** | EasyList blocklists, converted into something Pi-hole can eat. |
 
+### Also, this puzzle game
+
+| | |
+| --- | --- |
+| **[Calendar Puzzle](https://calendar-puzzle.yoavain.org/)** | Fit eight pieces onto the board so only today's month and day stay uncovered. Plays in the browser, no install. |
+
+[<img src="resources/calendar-puzzle.png" alt="Calendar Puzzle: a board of months and days with eight coloured pieces around it" width="520">](https://calendar-puzzle.yoavain.org/)
+
 ### Contributed to
 
 Fixes and features merged into tools other developers depend on.
