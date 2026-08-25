@@ -9,18 +9,14 @@ Off the clock I write small Node tools that fix annoying things, mostly around n
 
 ### Things I've made
 
-| | |
-| --- | --- |
-| **[create-windowless-app](https://github.com/yoavain/create-windowless-app)** | Scaffold a Node app that runs with no console window. [`npm`](https://www.npmjs.com/package/create-windowless-app) |
-| **[fix-lockfile-integrity](https://github.com/yoavain/fix-lockfile-integrity)** | Repairs broken integrity hashes in `package-lock.json`. [`npm`](https://www.npmjs.com/package/fix-lockfile-integrity) |
-| **[screwzira-subtitle-downloader](https://github.com/yoavain/screwzira-subtitle-downloader)** | Fetches Hebrew subtitles for whatever you're watching, automatically. |
-| **[easylists-for-pihole](https://github.com/yoavain/easylists-for-pihole)** | EasyList blocklists, converted into something Pi-hole can eat. |
+- **[create-windowless-app](https://github.com/yoavain/create-windowless-app)**: Scaffold a Node app that runs with no console window. [`npm`](https://www.npmjs.com/package/create-windowless-app) <a href="https://www.npmjs.com/package/create-windowless-app"><img align="middle" height="20" alt="create-windowless-app downloads per year" src="https://img.shields.io/npm/dy/create-windowless-app?color=8000FF&labelColor=14161A"></a>
+- **[fix-lockfile-integrity](https://github.com/yoavain/fix-lockfile-integrity)**: Repairs broken integrity hashes in `package-lock.json`. [`npm`](https://www.npmjs.com/package/fix-lockfile-integrity) <a href="https://www.npmjs.com/package/fix-lockfile-integrity"><img align="middle" height="20" alt="fix-lockfile-integrity downloads per year" src="https://img.shields.io/npm/dy/fix-lockfile-integrity?color=8000FF&labelColor=14161A"></a>
+- **[screwzira-subtitle-downloader](https://github.com/yoavain/screwzira-subtitle-downloader)**: Fetches Hebrew subtitles for whatever you're watching, automatically. <a href="https://github.com/yoavain/screwzira-subtitle-downloader/releases"><img align="middle" height="20" alt="screwzira-subtitle-downloader release downloads, all releases" src="https://img.shields.io/github/downloads/yoavain/screwzira-subtitle-downloader/total?color=8000FF&labelColor=14161A"></a>
+- **[easylists-for-pihole](https://github.com/yoavain/easylists-for-pihole)**: EasyList blocklists, converted into something Pi-hole can eat.
 
 ### Also, this puzzle game
 
-| | |
-| --- | --- |
-| **[Calendar Puzzle](https://calendar-puzzle.yoavain.org/)** | Fit eight pieces onto the board so only today's month and day stay uncovered. Plays in the browser, no install. |
+**[Calendar Puzzle](https://calendar-puzzle.yoavain.org/)**: Fit eight pieces onto the board so only today's month and day stay uncovered. Plays in the browser, no install.
 
 [<img src="resources/calendar-puzzle.png" alt="Calendar Puzzle: a board of months and days with eight coloured pieces around it" width="520">](https://calendar-puzzle.yoavain.org/)
 
@@ -28,25 +24,21 @@ Off the clock I write small Node tools that fix annoying things, mostly around n
 
 Fixes and features merged into tools other developers depend on.
 
-| | |
-| --- | --- |
-| **[node-notifier](https://github.com/mikaelbr/node-notifier)** | Desktop notifications for Node, 5M downloads/week. |
-| **[lockfile-lint](https://github.com/lirantal/lockfile-lint)** | Lockfile security linting. |
-| **[IntelliJ Extra Icons](https://github.com/jonathanlermitage/intellij-extra-icons-plugin)** | File-icon overrides for IntelliJ, 1.4M installs. |
-| **[webpack-build-notifier](https://github.com/RoccoC/webpack-build-notifier)** | Build notifications for Webpack. |
-| **[branch-name-lint](https://github.com/barzik/branch-name-lint)** | Branch naming conventions. |
-| **[npq](https://github.com/lirantal/npq)** | Pre-install auditing for npm packages. |
-| **[lockfix](https://github.com/kopach/lockfix)** | npm lockfile repair. |
-| **[ls-mcp](https://github.com/lirantal/ls-mcp)** | MCP server config discovery. |
+- **[node-notifier](https://github.com/mikaelbr/node-notifier)**: Desktop notifications for Node, 5M downloads/week.
+- **[lockfile-lint](https://github.com/lirantal/lockfile-lint)**: Lockfile security linting.
+- **[IntelliJ Extra Icons](https://github.com/jonathanlermitage/intellij-extra-icons-plugin)**: File-icon overrides for IntelliJ, 1.4M installs.
+- **[webpack-build-notifier](https://github.com/RoccoC/webpack-build-notifier)**: Build notifications for Webpack.
+- **[branch-name-lint](https://github.com/barzik/branch-name-lint)**: Branch naming conventions.
+- **[npq](https://github.com/lirantal/npq)**: Pre-install auditing for npm packages.
+- **[lockfix](https://github.com/kopach/lockfix)**: npm lockfile repair.
+- **[ls-mcp](https://github.com/lirantal/ls-mcp)**: MCP server config discovery.
 
 ### What I reach for
 
-| |                                                                |
-| --- |----------------------------------------------------------------|
-| Every day | TypeScript, Node.js, React, GraphQL / Apollo                   |
-| Also fluent | Java, Bash, Batch                                              |
-| Data | PostgreSQL, MySQL, DynamoDB                                    |
-| Build & ship | AWS, GitHub Actions, Jenkins, Git, Webpack, Vite, Jest |
+- **Every day**: TypeScript, Node.js, React, GraphQL / Apollo
+- **Also fluent**: Java, Bash, Batch
+- **Data**: PostgreSQL, MySQL, DynamoDB
+- **Build & ship**: AWS, GitHub Actions, Jenkins, Git, Webpack, Vite, Jest
 
 <details>
 <summary>The full inventory, if you're curious</summary>
