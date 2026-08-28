@@ -53,8 +53,6 @@ Claude Code · IntelliJ · Docker · Serverless · Lerna · Nx · Express · Fas
 
 Issues and PRs on any of the above are genuinely welcome; small PRs with a screenshot are my favourite kind.
 
-[Twitter](https://x.com/yoavain) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/yoavvainrich) &nbsp;·&nbsp; [Facebook](https://www.facebook.com/yoav.vainrich)
-
 <a href="https://x.com/yoavain"><img width="160" alt="QR code that opens Yoav Vainrich on Twitter" src="resources/twitter-qr-code.svg"></a>
 <a href="https://www.linkedin.com/in/yoavvainrich"><img width="160" alt="QR code that opens Yoav Vainrich on LinkedIn" src="resources/li-qr-code.svg"></a>
 <a href="https://www.facebook.com/yoav.vainrich"><img width="160" alt="QR code that opens Yoav Vainrich on Facebook" src="resources/facebook-qr-code.svg"></a>
