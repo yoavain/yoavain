@@ -40,6 +40,8 @@ Write-ups at [yoavain.github.io](https://yoavain.github.io/).
 
 - **[The Weakest Link](https://yoavain.github.io/blog/the-weakest-link/)**: A font compressor, an unhandled rejection, and the blast radius of a dependency.
 
+[<img src="resources/the-weakest-link-cover.jpg" alt="The Weakest Link: a heavy iron chain on a workbench, one link snapped through" width="320">](https://yoavain.github.io/blog/the-weakest-link/)
+
 ### What I reach for
 
 - **Every day**: TypeScript, Node.js, React, GraphQL / Apollo
