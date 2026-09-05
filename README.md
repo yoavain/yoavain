@@ -25,6 +25,7 @@ Off the clock I write small Node tools that fix annoying things, mostly around n
 Fixes and features merged into tools other developers depend on.
 
 - **[node-notifier](https://github.com/mikaelbr/node-notifier)**: Desktop notifications for Node, 5M downloads/week.
+- **[wawoff2](https://github.com/fontello/wawoff2)**: WOFF2 font compression and decompression.
 - **[lockfile-lint](https://github.com/lirantal/lockfile-lint)**: Lockfile security linting.
 - **[IntelliJ Extra Icons](https://github.com/jonathanlermitage/intellij-extra-icons-plugin)**: File-icon overrides for IntelliJ, 1.4M installs.
 - **[webpack-build-notifier](https://github.com/RoccoC/webpack-build-notifier)**: Build notifications for Webpack.
@@ -32,6 +33,12 @@ Fixes and features merged into tools other developers depend on.
 - **[npq](https://github.com/lirantal/npq)**: Pre-install auditing for npm packages.
 - **[lockfix](https://github.com/kopach/lockfix)**: npm lockfile repair.
 - **[ls-mcp](https://github.com/lirantal/ls-mcp)**: MCP server config discovery.
+
+### Posts
+
+Write-ups at [yoavain.github.io](https://yoavain.github.io/).
+
+- **[The Weakest Link](https://yoavain.github.io/blog/the-weakest-link/)**: A font compressor, an unhandled rejection, and the blast radius of a dependency.
 
 ### What I reach for
 
