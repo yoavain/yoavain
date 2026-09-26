@@ -18,7 +18,7 @@ Off the clock I write small Node tools that fix annoying things, mostly around n
 
 **[Calendar Puzzle](https://calendar-puzzle.yoavain.org/)**: Fit eight pieces onto the board so only today's month and day stay uncovered. Plays in the browser, no install. [source](https://github.com/yoavain/calendar-puzzle)
 
-[<img src="resources/calendar-puzzle.png" alt="Calendar Puzzle: a board of months and days with eight coloured pieces around it" width="520">](https://calendar-puzzle.yoavain.org/)
+[<img src="resources/puzzle-promo.webp" alt="Calendar Puzzle animation: eight coloured pieces fly onto a board of months and days and solve it" width="640">](https://calendar-puzzle.yoavain.org/)
 
 ### Contributed to
 
